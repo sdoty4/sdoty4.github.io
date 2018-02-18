@@ -51,6 +51,8 @@ So don't use spaces. Or use hypens instead.
 
 ![](images/OK.PNG)
 
+![](images/Cap-ture.PNG)
+
 | header 1 | header 2 |
 | -------- | -------- |
 | column 1 | column 2 |
