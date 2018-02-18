@@ -43,3 +43,8 @@ for numbered list...
 1. item 1
 2. item 2
 
+To add an image, upload your image to github (maybe in an images folder) then use `![](filename.png)` to add it.  
+Filenames are case sensitive and spaces in file names must be replaced with `%20`.  
+So don't use spaces. Or use hypens instead.
+
+![](images/OK.PNG)
