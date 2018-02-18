@@ -80,4 +80,6 @@ You can also use html to create tables
   </tr>
 </table>
 
+This site was built using [GitHub Pages](https://pages.github.com/)
+
 
