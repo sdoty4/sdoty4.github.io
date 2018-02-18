@@ -15,13 +15,15 @@ three dashes is a line
 No blank lines underneath
 result in same line.
 
-two spaces at then end of this line
+two spaces at then end of this line  
 result in a single space carriage return.
 
 
 **this is bold**
 
 *this is italic*
+
+***this is bold italic***
 
 for inline code use a back tick `ls -a`
 
