@@ -48,3 +48,32 @@ Filenames are case sensitive and spaces in file names must be replaced with `%20
 So don't use spaces. Or use hypens instead.
 
 ![](images/OK.PNG)
+
+| header 1 | header 2 |
+| -------- | -------- |
+| column 1 | column 2 |
+| row 2    | row 2    |
+| row 3 | row 3 |
+
+You can also use html to create tables
+
+<table>
+  <tr>
+    <th>header 1</th><th>header 2</th>
+  </tr>
+  <tr>
+    <td>column 1</td>
+    <td>column 2</td>
+  </tr>
+  <tr>
+    <td colspan="2">colspan is possible this way</td>
+  </tr>
+  <tr>
+    <td rowspan="2">and so<br />is rowspan</td><td>Very</td>
+  </tr>
+  <tr>
+    <td>Cool!</td>
+  </tr>
+</table>
+
+
