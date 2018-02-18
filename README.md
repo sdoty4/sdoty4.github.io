@@ -85,7 +85,7 @@ This is a link to an external site... [GitHub Pages](https://pages.github.com/)
 
 This is a link to a relative or internal page ... [SRC Readme file](src/README.md)
 
-This is about me... [About Me](AboutMe.md)
+This is about me... [About Me](./AboutMe.md)
 
 
 
