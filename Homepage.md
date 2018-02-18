@@ -4,4 +4,4 @@
 #### [Experiences](Other_Pages/Experiences.md)
 ---
 ## About Me
-  
+  Hello, I am Shelby Doty, an undergraduate student at the University of Illinois at Urbana-Champaign currently studying computer engineering. I am performing research advised by PhD student Wei Yang focused on developing my machine learning skills. My research interests lie primarily in software engineering and security. 
