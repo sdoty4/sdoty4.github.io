@@ -1,1 +1,0 @@
-# About Shelby Doty
