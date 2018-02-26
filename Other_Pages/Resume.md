@@ -1,4 +1,4 @@
-## Education
+### Education
 University of Illinois · Urbana-Champaign  
 
 *Bachelor of Science in Computer Engineering*
@@ -6,7 +6,7 @@ University of Illinois · Urbana-Champaign
 Springfield High School · Springfield, IL
 * 2016 Illinois Student Assistance Commission Scholar
 
-## Work Experience
+### Work Experience
 
 Cashier Lead at Sears · Springfield, IL (May 2015 - April 2016)
 * Head cashier responsible for delivering excellent customer service, handling point-of-sale transactions, and completing returns
@@ -18,7 +18,7 @@ Key Holder at Plato's Closet · Springfield, IL (April 2016 - May 2017)
 Sales Associate at Meijer · Springfield, IL (June 2017 - current)
 * Organizing back stock room, stocking shelves, delivering customer service, and performing late night security lock-up
 
-## Activities
+### Activities
 
 Society of Women in Engineering (August 2017 - December 2017)
 
@@ -32,7 +32,7 @@ HackIllinois
 * Worked with a team to develop a Google Chrome Extension
 * Attended workshops on blockchain
 
-## Skills
+### Skills
 
 * Entry level Java programming
 * Entry level JavaScript programming
