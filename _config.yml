@@ -1,5 +1,4 @@
 theme: jekyll-theme-slate
 title: Shelby Doty
-url: "https://sdoty4.github.io"
-navbar-links:
-  About Me: "aboutme"
+baseurl:
+url:
