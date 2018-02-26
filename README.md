@@ -1,5 +1,3 @@
-# Shelby Doty
-
 #### [Resume](Other_Pages/Resume.md) 
 
 ---
