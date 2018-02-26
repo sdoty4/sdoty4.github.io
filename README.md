@@ -5,4 +5,4 @@
   Cell: (217) 220-4834  
   Email: sdoty4@illinois.edu
 
-### [Resume](Other_Pages/Resume.md) 
+### ![Resume](Other_Pages/Resume.md) 
