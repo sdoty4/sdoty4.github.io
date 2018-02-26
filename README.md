@@ -1,7 +1,6 @@
 # Shelby Doty
 
-#### [Work History](Other_Pages/Work_History.md) 
-#### [Experiences](Other_Pages/Experiences.md)
+#### [Resume](Other_Pages/Resume.md) 
 
 ---
 ## About Me
